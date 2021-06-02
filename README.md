@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring front-end developer in San Francsico, California, looking for an entry-level position.
+I'm an aspiring developer in San Francsico, California, looking for an entry-level front-end position.
 
 📂[Portfolio](https://sunnfast.github.io/)
 
