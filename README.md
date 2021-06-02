@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm an aspiring front-end developer in San Francsico, California, looking for an entry-level position.
+
+📂[Portfolio](https://sunnfast.github.io/)
+
+📧<a href = "mailto:simone.christen.dev@gmail.com">Email </a>
+
 <!--
 **Sunnfast/sunnfast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
