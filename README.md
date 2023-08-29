@@ -7,6 +7,6 @@ I recently finished the 2023 WiCyS + ISC2 Certified in Cybersecurity Certificati
 I'm currently studying for the CompTIA Security+ exam and anticipate taking it in September 2023.
 
 
-📧<a href = "mailto:simone.christen.dev@gmail.com">Email </a>
+📧<a href = "mailto:simone.k.christen@gmail.com">Email </a>
 
 
