@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm an aspiring cyber security analyst in San Francsico, California.
+I'm an aspiring cyber security analyst specifically with an interest in compliance living in San Francsico, California.
 
 I recently finished the 2023 WiCyS + ISC2 Certified in Cybersecurity Certification Summer Camp and successfully earned my ISC2 Certified in Cybersecurity Certificate.
 
