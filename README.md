@@ -9,6 +9,6 @@ I'm currently studying for the CompTIA Security+ exam and anticipate taking it i
 
 📧<a href = "mailto:simone.k.christen@gmail.com">Email </a>
 
-📃<a href = "https://drive.google.com/file/d/1V551_Zk1e4AHkpLS7y3rNoegWRR0RVlE/view?usp=sharing" target = "_blank">Resume</a>
+📃<a href = "https://drive.google.com/file/d/1V551_Zk1e4AHkpLS7y3rNoegWRR0RVlE/view?usp=sharing">Resume</a>
 
 
