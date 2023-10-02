@@ -4,7 +4,7 @@ I'm an aspiring cyber security analyst specifically with an interest in complian
 
 I recently finished the 2023 WiCyS + ISC2 Certified in Cybersecurity Certification Summer Camp and successfully earned my ISC2 Certified in Cybersecurity Certificate.
 
-I'm currently studying for the CompTIA Security+ exam and anticipate taking it in September 2023.
+I'm currently studying for the CompTIA Security+ exam and will be sitting for the examination in October 2023.
 
 
 📧<a href = "mailto:simone.k.christen@gmail.com">Email </a>
