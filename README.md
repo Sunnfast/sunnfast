@@ -1,4 +1,4 @@
-### Welcome!
+### Hi there!
 
 I'm an aspiring cyber security professional specifically with an interest in compliance living in San Francsico, California.
 
