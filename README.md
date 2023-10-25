@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm an attonrey and an aspiring cyber security professional, specifically with an interest in compliance, living in San Francsico, California.
+I'm an attorney and an aspiring cyber security professional, specifically with an interest in compliance, living in San Francsico, California.
 
 Some recent updates:
 - I recently finished the 2023 WiCyS + ISC2 Certified in Cybersecurity Certification Summer Camp and successfully earned my ISC2 Certified in Cybersecurity Certificate.
