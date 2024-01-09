@@ -1,4 +1,4 @@
-### simone@simone:~$ whoami
+### whoami
 
 I'm an attorney and an aspiring cyber security professional living in San Francsico, California.
 
