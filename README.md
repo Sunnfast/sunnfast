@@ -2,6 +2,10 @@
 
 I'm an attorney and an aspiring cyber security professional looking to for my next role as a Security Analyst
 
+Cyber Security Portfolio:
+- <a href = "https://github.com/Sunnfast/incident-reports-analyses"> Incident Reports & Analyses </a>
+- <a href = "https://github.com/Sunnfast/vulnerability-assessments"> Vulnerability Assessment </a>
+
 Some recent updates:
 - I recently earned my GIAC Certified Incident Handler (GCIH) certification🎉
 - I'll be volunteering at the SF BSides 2025
