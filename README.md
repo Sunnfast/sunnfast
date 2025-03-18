@@ -1,6 +1,6 @@
 ### whoami
 
-I'm an attorney and an aspiring cyber security professional looking to work in compliance living in San Francsico, California.
+I'm an attorney and an aspiring cyber security professional looking to for my next role as a Security Analyst
 
 Some recent updates:
 - I recently earned my GIAC Certified Incident Handler (GCIH) certification🎉
