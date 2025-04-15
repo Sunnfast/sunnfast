@@ -7,10 +7,9 @@ Cyber Security Portfolio:
 - <a href = "https://github.com/Sunnfast/vulnerability-assessments"> Vulnerability Assessment </a>
 
 Some recent updates:
-- I recently earned my GIAC Certified Incident Handler (GCIH) certification🎉
-- I'll be volunteering at the SF BSides 2025 which is happening at the end of April
-- I am currently studying for the GIAC Intrusion Analyst certification (GCIA) and will be taking the exam in April 2025
-- I anticipate graduating from the SANS Technology Institute's Undergraduate Certificate in Applied Cybersecurity program in April 2025
+- I recently earned my GIAC Certified Intrusion Analyst (GCIA) certification🎉
+- I'll be volunteering at the San Francisco BSides 2025
+- I just graduated from the SANS Technology Institute's Undergraduate Certificate in Applied Cybersecurity program 
 
 
 📧<a href = "mailto:simonechristen@duck.com">Email </a>
