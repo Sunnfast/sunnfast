@@ -8,7 +8,7 @@ Cyber Security Portfolio:
 
 Some recent updates:
 - I recently earned my GIAC Certified Intrusion Analyst (GCIA) certification🎉
-- I'll be volunteering at the San Francisco BSides 2025
+- I had a wonderful time volunteering at the San Francisco BSides 2025
 - I just graduated from the SANS Technology Institute's Undergraduate Certificate in Applied Cybersecurity program 
 
 
