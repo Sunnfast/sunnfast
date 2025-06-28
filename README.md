@@ -1,6 +1,6 @@
 ### whoami
 
-I'm an attorney and an aspiring cyber security professional looking to for my next role as a Security Analyst
+I'm an attorney and an aspiring cyber security professional looking to for my next role.
 
 Cyber Security Portfolio:
 - <a href = "https://github.com/Sunnfast/incident-reports-analyses"> Incident Reports & Analyses </a>
