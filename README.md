@@ -1,6 +1,6 @@
 ### whoami
 
-I'm an attorney and an aspiring cyber security professional looking to for my next role.
+I'm an attorney and a governance, risk, and compliance professional with SANS technical training looking to for my next role.
 
 Cyber Security Portfolio:
 - <a href = "https://github.com/Sunnfast/incident-reports-analyses"> Incident Reports & Analyses </a>
